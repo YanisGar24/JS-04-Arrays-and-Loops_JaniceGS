@@ -1,4 +1,9 @@
 /*
+Creador de codigo
+Garcia Samperio Janice
+*/
+
+/*
 Sum of Resistors in Series
  
 
